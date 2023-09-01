@@ -1,5 +1,4 @@
-# P-value-Computation
-A framework to integrate the phenotype and genotype datasets and finding the association between them
+# A framework to integrate the phenotype and genotype datasets and finding the association between them
 
 Project overview:
 The purpose of this project is to identify genetic variants (usually SNPs) associated with specific phenotypic traits or diseases. This can help us understand the genetic basis of these traits and potentially predict disease risks.
